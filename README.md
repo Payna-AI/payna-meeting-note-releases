@@ -62,6 +62,8 @@ Uygulama açılırken yeni sürümü kendiliğinden kontrol eder. Yeni sürüm v
 - Anonim kullanım istatistikleri varsayılan olarak **açıktır**; **Ayarlar** bölümünden istediğiniz zaman kapatabilirsiniz. Bu istatistikler toplantı içeriğinizi (ses, transkript, özet) içermez.
 - Geri bildirim butonunu kullandığınızda yalnızca yazdığınız mesaj, isteğe bağlı yanıt adresiniz, uygulama sürümü ve işletim sistemi bilgisi gönderilir.
 
+Ayrıntılar için [Gizlilik Politikası](PRIVACY_POLICY.md) sayfasına bakın.
+
 ## Lisans ve teşekkür
 
 Payna Meeting Note, [Zackriya Solutions](https://github.com/Zackriya-Solutions/meeting-minutes) tarafından geliştirilen MIT lisanslı **Meetily** projesinden türetilmiştir. Özgün projenin geliştiricilerine ve katkı verenlere teşekkür ederiz. Lisans MIT'dir; özgün telif ve lisans notu (Copyright (c) 2024 Zackriya Solutions) korunmuştur.
@@ -139,6 +141,8 @@ The app checks for new versions on startup and shows a notification when one is 
 - If you choose an external service such as Claude, Groq or OpenRouter for summaries, the text to be summarized is sent only to that service. The choice is yours.
 - Anonymous usage analytics are **on by default**; you can turn them off at any time in **Settings**. They never include your meeting content (audio, transcripts, summaries).
 - When you use the feedback button, only the message you write, your optional reply address, the app version and the operating system are sent.
+
+For details see the [Privacy Policy](PRIVACY_POLICY.md).
 
 ## License and credits
 
