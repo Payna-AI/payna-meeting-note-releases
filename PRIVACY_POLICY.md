@@ -2,7 +2,7 @@
 
 **Türkçe** | [English](#payna-meeting-note--privacy-policy)
 
-*Son güncelleme: 17 Ekim 2026 (uygulama sürümü 0.5.1)*
+*Son güncelleme: 22 Ekim 2026 (uygulama sürümü 0.5.2)*
 
 Payna Meeting Note, toplantılarınızı kaydeden, yazıya döken ve özetleyen bir masaüstü uygulamasıdır. Uygulama, işini **bilgisayarınızda** yapacak şekilde tasarlanmıştır. Bu politika, hangi verilerin cihazınızda kaldığını, hangi durumlarda cihazınızdan çıkabileceğini ve bunu nasıl denetleyebileceğinizi açıklar.
 
@@ -86,7 +86,7 @@ Payna Meeting Note, MIT lisanslı **Meetily** projesinden türetilmiştir. Veri 
 
 [Türkçe](#payna-meeting-note--gizlilik-politikası) | **English**
 
-*Last updated: 17 October 2026 (app version 0.5.1)*
+*Last updated: 22 October 2026 (app version 0.5.2)*
 
 Payna Meeting Note is a desktop app that records, transcribes and summarizes your meetings. It is designed to do its work **on your own computer**. This policy explains which data stays on your device, when data can leave it, and how you can control that.
 
